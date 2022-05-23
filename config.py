@@ -1,0 +1,2 @@
+TOKEN='5137791556:AAEdx4SOr0jr_omtepmdb5wCOxkvdZffQwI'
+API="baa46c5ca648e815e9a7713b2894bf80"
